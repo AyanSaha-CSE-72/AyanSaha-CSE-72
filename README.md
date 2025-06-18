@@ -10,7 +10,6 @@
 ### 🔧 About Me
 
 - 🎓 Currently studying Computer Science & Engineering
-- 🤖 Passionate about **IoT**, **Embedded Systems**, and **AI/ML**
 - 🛠️ Building: **U-TURN ACCIDENT PREVENTION SYSTEM USING ARDUINO UNO**
 - 🌱 Learning: Python, Data Structures & Algorithms, Flutter
 - 🎯 Goal: Become a skilled **Data Analyst & System Innovator**
