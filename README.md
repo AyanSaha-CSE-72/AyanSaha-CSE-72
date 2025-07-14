@@ -2,7 +2,7 @@
 
 <p align="center">
   👨‍💻 CSE Student  |  💡 Arduino Enthusiast | 🎯 Future Data Analyst <br/>
-  📍 Dhaka, Bangladesh | 🤝 Open to Collaboration | 📚 Lifelong Learner
+  📍 Dhaka, Bangladesh | 🤝 Open to Collaboration | 📚  Lifelong Learner
 </p>
 
 ---
