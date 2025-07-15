@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,  I'm Ayan Saha 👋</h1>
+<h1 align="center">Hi there, I'm Ayan Saha 👋</h1>
 
 <p align="center">
   👨‍💻 CSE Student  |  💡 Arduino Enthusiast | 🎯 Future Data Analyst <br/>
