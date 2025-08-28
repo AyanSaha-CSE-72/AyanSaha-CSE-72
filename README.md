@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Ayan Saha  👋</h1>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyanSaha-CSE-72&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
+</p> 
 <p align="center">
   👨‍💻 CSE Student  | 🎯 Future Data Analyst <br/>
   📍 Dhaka, Bangladesh | 🤝 Open to Collaboration |  📚  Lifelong Learner
