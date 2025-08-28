@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Ayan Saha  👋</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyanSaha-CSE-72&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
-</p> 
+ 
 <p align="center">
   👨‍💻 CSE Student  | 🎯 Future Data Analyst <br/>
   📍 Dhaka, Bangladesh | 🤝 Open to Collaboration |  📚  Lifelong Learner
@@ -21,7 +19,9 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayan-saha-571794291)  
   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/19PUmKPjYw/)  
   [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@education_research_center)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyanSaha-CSE-72&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
+</p>
 ---
 
 ### 🚀 My Top Projects
