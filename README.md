@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ayan Saha  👋</h1>
  
 <p align="center">
-  👨‍💻 CSE Student  | 🎯 Future Data Analyst <br/>
+  👨‍💻 CSE Student   <br/>
   📍 Dhaka, Bangladesh | 🤝 Open to Collaboration |  📚  Lifelong Learner
 </p>
 
