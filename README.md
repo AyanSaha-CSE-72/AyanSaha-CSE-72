@@ -29,7 +29,7 @@
 - 🔷 [U-TURN ACCIDENT PREVENTION SYSTEM USING ARDUINO UNO](https://github.com/AyanSaha-CSE-72/U-TURN-ACCIDENT-PREVENTION-SYSTEM-USING-ARDUINO-UNO)  
   Arduino-based IoT system designed to prevent accidents at U-turns.
 
-- 🔹 [Transparency Tracker]((https://github.com/AyanSaha-CSE-72/Transparency-Tracker))  
+- 🔹 [Transparency Tracker](https://github.com/AyanSaha-CSE-72/Transparency-Tracker)  
  A District-based corruption reporting system for Bangladesh that enables citizens to report corruption incidents anonymously while providing real-time data visualization, filtering, and AI-powered summaries.
 
 ---
