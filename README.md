@@ -50,7 +50,7 @@
 
 ### 📊 GitHub Stats
 
-![Ayan Saha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyanSaha-CSE-72&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+https://github-readme-stats.vercel.app/api?username=AyanSaha-CSE-72&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=60
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanSaha-CSE-72&layout=compact&theme=radical)
 
